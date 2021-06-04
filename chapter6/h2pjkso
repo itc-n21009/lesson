@@ -1,0 +1,4 @@
+
+first_three = "abci"
+result = "+".join(first_three)
+result
